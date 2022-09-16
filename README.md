@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development | Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.ultroneous.online
+- 📫 How to reach me https://musharaf7.github.io/ultroneous/
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,python,gcp)](https://skillicons.dev)
 
