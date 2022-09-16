@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.ultroneous.online
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,java,cloud computing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,java)](https://skillicons.dev)
 
 <!---
 mush725-beep/mush725-beep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
